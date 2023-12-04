@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1083192814346",
+    "firebase_url": "https://inkart-25d29-default-rtdb.firebaseio.com",
+    "project_id": "inkart-25d29",
+    "storage_bucket": "inkart-25d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083192814346:android:91b3aff17307ad8f86e8f3",
+        "android_client_info": {
+          "package_name": "com.inkartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083192814346-b205oqm2klblhlsdppuno8ajto2q7d6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7NgmVMaE7fc9joYMOxPUJX-G_30engM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083192814346-b205oqm2klblhlsdppuno8ajto2q7d6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083192814346-q7s1auf57qu7bssdg8e4s49l4p5grfmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.InKart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083192814346:android:dd3e6013146fb6a386e8f3",
+        "android_client_info": {
+          "package_name": "com.inkartuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083192814346-qllprov9eg2ugbalqfk7p2isjkadvt1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inkartuserapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1083192814346-b205oqm2klblhlsdppuno8ajto2q7d6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7NgmVMaE7fc9joYMOxPUJX-G_30engM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083192814346-b205oqm2klblhlsdppuno8ajto2q7d6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083192814346-q7s1auf57qu7bssdg8e4s49l4p5grfmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.InKart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
